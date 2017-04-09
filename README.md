@@ -4,4 +4,4 @@
 ## Images
 ![](https://github.com/y2kblog/STM32F746DISCO_uGUI_FreeRTOS_example/blob/master/images/display1.jpg)
 
-![](https://github.com/y2kblog/STM32F746DISCO_uGUI_FreeRTOS_example/master/images/display2.jpg)
+![](https://github.com/y2kblog/STM32F746DISCO_uGUI_FreeRTOS_example/blob/master/images/display2.jpg)
